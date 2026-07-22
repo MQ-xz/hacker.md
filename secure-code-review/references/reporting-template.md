@@ -1,6 +1,6 @@
 # Reporting Template Reference
 
-Load this file during Phase 20. Use the exact structures below — no deviation.
+Load this file during Phases 27–28. Use the exact structures below — no deviation.
 
 ---
 
@@ -196,7 +196,7 @@ Local priv-esc:                  CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H  =
 **Review Date:** YYYY-MM-DD
 **Codebase / Scope:** <repo name, commit hash, or component>
 **Operating Mode:** Full Audit | Quick Triage | PR Diff | Targeted
-**Reviewer:** Claude (secure-code-review skill v2.1.0)
+**Reviewer:** Claude (secure-code-review skill v1)
 
 ---
 

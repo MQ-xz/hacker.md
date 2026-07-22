@@ -1,6 +1,6 @@
 # Infrastructure & Supply Chain Security Reference
 
-Load this file during Phases 14 and 15.
+Load this file during Phases 12 and 13.
 
 ---
 

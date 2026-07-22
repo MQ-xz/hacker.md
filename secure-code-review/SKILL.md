@@ -21,7 +21,7 @@ compatibility:
     optional: [deployment_config, threat_model, prior_audit_reports]
 ---
 
-# Secure Code Review — Universal Adversarial Pipeline v3.1
+# Secure Code Review — Universal Adversarial Pipeline v1
 
 This is NOT a checklist. It is a layered adversarial analysis system where each phase feeds
 the next. Think like a red team operator chaining vulnerabilities, not a scanner emitting CWEs.

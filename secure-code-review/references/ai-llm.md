@@ -1,6 +1,6 @@
 # AI / LLM Security Reference
 
-Load this file during Phase 16. Treat AI/LLM surfaces as first-class attack surface,
+Load this file during Phase 14. Treat AI/LLM surfaces as first-class attack surface,
 not an afterthought.
 
 ---
